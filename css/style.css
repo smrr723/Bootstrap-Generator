@@ -1,0 +1,17 @@
+h2 {
+	color: #2b4163; 
+	font-size: 1.2em; 
+	font-weight: bold;}
+
+.row {
+	padding: 15px 0px 10px 0px;}
+
+.data {	border-style: solid; 
+	border-radius: 4px; 
+	border-width: 1px; 
+	padding: 5px 10px 5px 10px; 
+	margin: 5px 5px 5px 5px;
+	font-size: 0.8em;}
+
+.container-fluid {
+	max-width: 1350px;}
