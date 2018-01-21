@@ -1,7 +1,7 @@
-JS Bootstrap Grid Generator
+# JS Bootstrap Grid Generator
 
-About
-A simple JS tool which allows you to input specific data into an array format
+### About
+A simple JS tool which allows you to input specific data in an array format
 which will in turn display all array items in a grid.
 
 This was just a quick and easy solution to a small task I was given at work, so may
